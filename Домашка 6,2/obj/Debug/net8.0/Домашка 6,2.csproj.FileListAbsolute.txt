@@ -12,3 +12,4 @@ I:\Простые алгоритмы\Домашка 6,2\obj\Debug\net8.0\refint\
 I:\Простые алгоритмы\Домашка 6,2\obj\Debug\net8.0\Домашка 6,2.pdb
 I:\Простые алгоритмы\Домашка 6,2\obj\Debug\net8.0\Домашка 6,2.genruntimeconfig.cache
 I:\Простые алгоритмы\Домашка 6,2\obj\Debug\net8.0\ref\Домашка 6,2.dll
+I:\Простые алгоритмы\Домашка 6,2\obj\Debug\net8.0\Домашка 6,2.sourcelink.json
