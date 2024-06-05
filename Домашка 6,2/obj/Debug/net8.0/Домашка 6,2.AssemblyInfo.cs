@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Домашка 6,2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86c41e5cc2babe911ee8a15d74cefcc58687f6fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3df80d41a6321d951c481a9e69c5478cbd53239")]
 [assembly: System.Reflection.AssemblyProductAttribute("Домашка 6,2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Домашка 6,2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
